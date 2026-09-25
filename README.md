@@ -1,142 +1,103 @@
-🥁 NICO
+<div align="center">🥁 NICO
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=200&section=header&text=NICO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p><p align="center">
-  <strong>🥁 Banda de Guerra • 💻 Programación • 🎖️ Disciplina</strong>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil;Código%2C+ritmo+y+disciplina;Siempre+aprendiendo+algo+nuevo;🥁+Ritmo+%7C+🎖️+Disciplina+%7C+💻+Código"/>
-</p>---
+🇲🇽 DISCIPLINA • RITMO • PRECISIÓN
 
-🎖️ SOBRE MÍ
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%C2%A1Firmes!;Banda+de+Guerra+%F0%9F%A5%81;Disciplina+y+precisi%C3%B3n;Siempre+al+frente+%F0%9F%87%B2%F0%9F%87%BD" alt="Animación"></div>---
 
-Hola, soy Nico 👋
+🥁 SOBRE MÍ
 
-Soy estudiante y me interesa la programación, la tecnología y la banda de guerra.
+╔══════════════════════════════════════╗
+║              PERFIL NICO             ║
+╠══════════════════════════════════════╣
+║ 🥁 Banda de Guerra                   ║
+║ 🎖️ Disciplina y constancia           ║
+║ 🎵 Ritmo y coordinación              ║
+║ 🇲🇽 Orgullo y compromiso              ║
+╚══════════════════════════════════════╝
 
-Me gusta aprender cosas nuevas, mejorar mis habilidades y trabajar con disciplina para conseguir mis objetivos.
-
-╔══════════════════════════════════════════════╗
-║                                              ║
-║                  🥁 N I C O                   ║
-║                                              ║
-║       🥁 BANDA DE GUERRA                     ║
-║       💻 PROGRAMACIÓN                        ║
-║       🎮 VIDEOJUEGOS                         ║
-║       🎧 MÚSICA                              ║
-║       🚀 TECNOLOGÍA                          ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+Me gusta la banda de guerra, la disciplina y todo lo relacionado con el ritmo, la coordinación y el trabajo en equipo.
 
 ---
 
-🥁 BANDA DE GUERRA
+🥁 MI PASIÓN
 
-                 🥁
-            ╭─────────╮
-            │  RITMO   │
-            ╰────┬────╯
-                 │
-        ┌────────┴────────┐
-        │                 │
-     🎖️ DISCIPLINA     🎺 PRECISIÓN
-        │                 │
-        └────────┬────────┘
-                 │
-              🫡 HONOR
+<div align="center">🔊 REDOBLE
 
-🥁 Lo que representa para mí
+🥁 → 🥁 → 🥁 → 🥁 → 🥁
 
-Ritmo → Mantener el paso.
-Disciplina → Ser constante.
-Precisión → Hacer las cosas correctamente.
-Trabajo en equipo → Avanzar juntos.
-Constancia → Nunca dejar de aprender.
+        ╭──────────────╮
+        │      🥁      │
+        │    NICO      │
+        ╰──────────────╯
+          ╲          ╱
+           ╲  🥢🥢  ╱
+            ╲______╱
 
----
+🎖️ DISCIPLINA
 
-💻 TECNOLOGÍAS
+🎵 RITMO
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" /></p>---
+🥁 PRECISIÓN
 
-📚 ACTUALMENTE APRENDIENDO
+🇲🇽 ORGULLO
 
-💻 Programación
-🐍 Python
-🐙 Git & GitHub
-🚀 Desarrollo de proyectos
+</div>---
 
----
+🥁 ANIMACIÓN DE BANDA
+
+<div align="center"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">🥁 ¡ATENCIÓN!
+
+FIRMES • SALUDAR • EN DESCANSO
+
+</div>---
+
+💻 TECNOLOGÍA
+
+<div align="center">🐍 Python
+
+<img src="https://skillicons.dev/icons?i=python" width="80"></div>---
 
 🎯 OBJETIVOS
 
-- [ ] Mejorar mis habilidades de programación
-- [ ] Crear proyectos propios
-- [ ] Aprender nuevas tecnologías
-- [ ] Mejorar constantemente en banda de guerra
-- [ ] Crear proyectos que realmente me representen
-- [ ] Construir mi experiencia como programador
+[████████████████████] 100%  Disciplina
+[██████████████████░░]  90%  Aprendizaje
+[█████████████████░░░]  85%  Programación
+[████████████████████] 100%  Banda de Guerra
+
+- 🥁 Seguir mejorando en banda de guerra.
+- 🐍 Mejorar mis conocimientos de Python.
+- 🎯 Desarrollar nuevos proyectos.
+- 🤝 Trabajar mejor en equipo.
+- 🚀 Seguir aprendiendo cosas nuevas.
 
 ---
 
-📊 GITHUB
+🏆 FILOSOFÍA
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" height="180"/></p>---
+<div align="center">«"El ritmo se escucha, pero la disciplina se demuestra."»
 
-🔥 ACTIVIDAD
+🥁 ━━━━━━━━━━━━━━━━━━━━━ 🥁
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true"/></p>---
+</div>---
 
-🐍 MI ACTIVIDAD EN GITHUB
+📊 ESTADÍSTICAS
 
-<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/></p>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="450"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" width="350"></div>---
 
-🏆 METAS
+🥁 SECUENCIA
 
-╔══════════════════════════════════════╗
-║              MIS METAS               ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  🥁 Mejorar en banda de guerra       ║
-║  💻 Mejorar programando              ║
-║  🚀 Crear proyectos                  ║
-║  🧠 Aprender constantemente           ║
-║  🎖️ Mantener la disciplina            ║
-║                                      ║
-╚══════════════════════════════════════╝
+<div align="center">🥁 ── 🥁 ── 🥁 ── 🥁
+ ↓     ↓     ↓     ↓
+ 1     2     3     4
 
----
+        NICO
+          ↓
+     ¡A LA ORDEN!
 
-🥁 MI FILOSOFÍA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=🥁%20¡FIRMES!&fontSize=30&fontColor=ffffff&animation=twinkling"></div>---
 
-<p align="center">"Ritmo, disciplina y constancia."
+<div align="center">🇲🇽 🥁 NICO 🥁 🇲🇽
 
-</p>          🥁 RITMO
-             ↓
-       🎖️ DISCIPLINA
-             ↓
-        💻 PRÁCTICA
-             ↓
-        🚀 PROGRESO
+"Ritmo, disciplina y pasión."
 
----
-
-🎮 MÁS SOBRE MÍ
-
-🥁| Interés
-🥁| Banda de guerra
-💻| Programación
-🎮| Videojuegos
-🎧| Música
-🚀| Tecnología
-🧠| Aprender
-
----
-
-<p align="center">🫡 GRACIAS POR VISITAR MI PERFIL
-
-NICO • 2026
-
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:111111&height=120&section=footer"/>
-</p>
+</div>
