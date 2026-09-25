@@ -1,103 +1,93 @@
-<div align="center">🥁 NICO
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=NICO&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:111111,100:333333" width="100%"/>"NICO.exe"
 
-🇲🇽 DISCIPLINA • RITMO • PRECISIÓN
+🥁 Banda de Guerra · Python · Disciplina
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%C2%A1Firmes!;Banda+de+Guerra+%F0%9F%A5%81;Disciplina+y+precisi%C3%B3n;Siempre+al+frente+%F0%9F%87%B2%F0%9F%87%BD" alt="Animación"></div>---
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Initializing+NICO.exe...;Python+developer+in+progress...;Banda+de+Guerra+%7C+Disciplina+%7C+Ritmo;System+ready.+%F0%9F%A5%81" /></div>---
 
-🥁 SOBRE MÍ
+"01 // PERFIL"
 
-╔══════════════════════════════════════╗
-║              PERFIL NICO             ║
-╠══════════════════════════════════════╣
-║ 🥁 Banda de Guerra                   ║
-║ 🎖️ Disciplina y constancia           ║
-║ 🎵 Ritmo y coordinación              ║
-║ 🇲🇽 Orgullo y compromiso              ║
-╚══════════════════════════════════════╝
+┌──────────────────────────────────────────────┐
+│                                              │
+│   NICO                                       │
+│                                              │
+│   > Banda de Guerra                          │
+│   > Python                                   │
+│   > Aprendizaje continuo                     │
+│   > Trabajo en equipo                        │
+│                                              │
+│   STATUS: ONLINE                             │
+│                                              │
+└──────────────────────────────────────────────┘
 
-Me gusta la banda de guerra, la disciplina y todo lo relacionado con el ritmo, la coordinación y el trabajo en equipo.
+Una combinación de tecnología, disciplina y música.
 
----
-
-🥁 MI PASIÓN
-
-<div align="center">🔊 REDOBLE
-
-🥁 → 🥁 → 🥁 → 🥁 → 🥁
-
-        ╭──────────────╮
-        │      🥁      │
-        │    NICO      │
-        ╰──────────────╯
-          ╲          ╱
-           ╲  🥢🥢  ╱
-            ╲______╱
-
-🎖️ DISCIPLINA
-
-🎵 RITMO
-
-🥁 PRECISIÓN
-
-🇲🇽 ORGULLO
-
-</div>---
-
-🥁 ANIMACIÓN DE BANDA
-
-<div align="center"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">🥁 ¡ATENCIÓN!
-
-FIRMES • SALUDAR • EN DESCANSO
-
-</div>---
-
-💻 TECNOLOGÍA
-
-<div align="center">🐍 Python
-
-<img src="https://skillicons.dev/icons?i=python" width="80"></div>---
-
-🎯 OBJETIVOS
-
-[████████████████████] 100%  Disciplina
-[██████████████████░░]  90%  Aprendizaje
-[█████████████████░░░]  85%  Programación
-[████████████████████] 100%  Banda de Guerra
-
-- 🥁 Seguir mejorando en banda de guerra.
-- 🐍 Mejorar mis conocimientos de Python.
-- 🎯 Desarrollar nuevos proyectos.
-- 🤝 Trabajar mejor en equipo.
-- 🚀 Seguir aprendiendo cosas nuevas.
+La banda de guerra representa precisión, coordinación y trabajo en equipo.
+Python es mi punto de partida dentro de la programación.
 
 ---
 
-🏆 FILOSOFÍA
+"02 // BANDA DE GUERRA"
 
-<div align="center">«"El ritmo se escucha, pero la disciplina se demuestra."»
+<div align="center">        ╱╲              ╱╲
+       ╱  ╲            ╱  ╲
+      ╱    ╲          ╱    ╲
+     ╱      ╲        ╱      ╲
+    ──────────      ──────────
+       🥁                🥁
 
-🥁 ━━━━━━━━━━━━━━━━━━━━━ 🥁
+"RITMO // PRECISIÓN // DISCIPLINA"
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=16&duration=1800&pause=500&color=AAAAAA&center=true&vCenter=true&width=500&lines=%5B+%2A+%5D+REDOBLE...;%5B+%2A+%5D+PREPARADOS...;%5B+%2A+%5D+FIRMES...;%5B+%2A+%5D+LISTOS." /></div>---
+
+"03 // STACK"
+
+<div align="center">PYTHON
+
+<img src="https://skillicons.dev/icons?i=python" width="75"/><br>"Python"
 
 </div>---
 
-📊 ESTADÍSTICAS
+"04 // PRINCIPIOS"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="450"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" width="350"></div>---
+01  DISCIPLINA
+    └── Hacerlo incluso cuando cuesta.
 
-🥁 SECUENCIA
+02  PRECISIÓN
+    └── Cada movimiento cuenta.
 
-<div align="center">🥁 ── 🥁 ── 🥁 ── 🥁
- ↓     ↓     ↓     ↓
- 1     2     3     4
+03  CONSTANCIA
+    └── Mejorar un poco cada día.
 
-        NICO
-          ↓
-     ¡A LA ORDEN!
+04  EQUIPO
+    └── El ritmo funciona cuando todos están coordinados.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=🥁%20¡FIRMES!&fontSize=30&fontColor=ffffff&animation=twinkling"></div>---
+---
 
-<div align="center">🇲🇽 🥁 NICO 🥁 🇲🇽
+"05 // CURRENT STATUS"
 
-"Ritmo, disciplina y pasión."
+<div align="center">╭────────────────────────────────────╮
+│                                    │
+│   NICO SYSTEM                     │
+│                                    │
+│   Python       ███████░░░  70%     │
+│   Learning     █████████░  90%     │
+│   Discipline   ██████████  100%    │
+│   Rhythm       ██████████  100%    │
+│                                    │
+│   ● SYSTEM ONLINE                 │
+│                                    │
+╰────────────────────────────────────╯
 
-</div>
+</div>---
+
+"06 // GITHUB"
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="430"/></div>---
+
+<div align="center">"> END OF TRANSMISSION_"
+
+🥁
+
+RITMO. DISCIPLINA. PRECISIÓN.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:333333,100:111111&animation=fadeIn" width="100%"/></div>
